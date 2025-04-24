@@ -10,6 +10,13 @@
 - Sql server instance and database
 - Gpt4all with API support - default http://localhost:4891/v1/chat/completions. This should match with Gpt4all
 
+# Create Database 
+
+- Open Project and then Package Manager Console from Visual Studio
+- Run command "update-database". Project already has migration.
+
+- Another way is to restore from backup
+
 # How to run locally
 
 - Open project in Visual Studio 2022 and run directly from VS.
